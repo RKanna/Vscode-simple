@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+.container1 {
+    min-width: 1250px;
+    min-height: 200px;
+    background-color: aqua;
+}
+.row1 {
+    display: flex;
+    flex-wrap: wrap;
+}
